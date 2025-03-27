@@ -1,6 +1,6 @@
 # 👨‍💻 Gabriel Henrique
 
-Olá! Atualmente estou cursando na `Universidade Federal de Ouro Preto`, no 7º semestre de Enganahria da Computação.
+Hello! I am currently studying at the `Federal University of Ouro Preto`, in the 7th semester of Computer Engineering.
 
 ---
 
